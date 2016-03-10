@@ -52,6 +52,7 @@ DEADJOE
 # end section managed by etckeeper
 
 *
+!haproxy/*
 !.gitignore
 !haproxy.cfg
 gssproxy
