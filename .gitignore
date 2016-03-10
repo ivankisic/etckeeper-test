@@ -50,3 +50,8 @@ check_mk/logwatch.state
 DEADJOE
 
 # end section managed by etckeeper
+
+*
+!.gitignore
+!haproxy.cfg
+
